@@ -1,0 +1,55 @@
+.login-container {
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 10px;
+}
+
+.login-container {
+    margin-top: 60px;
+    /* Ajusta el valor según el espacio deseado */
+}
+
+.login-form {
+    max-width: 300px;
+    width: 90%;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+}
+
+ion-item {
+    margin-bottom: 16px;
+}
+
+ion-button {
+    --background: #007bff;
+    --background-activated: #0056b3;
+    --background-hover: #0056b3;
+    --color: white;
+    --color-activated: white;
+    --color-hover: white;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.bg {
+    --background: #ff0000;
+    --background-activated: #0056b3;
+    --background-hover: #0056b3;
+    --color: white;
+    --color-activated: white;
+    --color-hover: white;
+    border-radius: 8px;
+}
+
+.register-link {
+    color: #007bff;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 10px;
+}

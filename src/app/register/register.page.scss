@@ -1,0 +1,71 @@
+    .register-container {
+        width: 100%;
+        align-items: center;
+        height: 100%;
+        padding: 10px;
+    }
+    
+    .register-container {
+        margin-top: 60px;
+        /* Ajusta el valor según el espacio deseado */
+    }
+    
+    .register-form {
+        /*  max-width: 300px; */
+        width: 90%;
+        background-color: #f2f2f2;
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        margin: 0 auto;
+        margin-bottom: 25px;
+    }
+    
+    ion-item {
+        margin-bottom: 16px;
+    }
+    
+    ion-button {
+        --background: #28a745;
+        --background-activated: #1a682c;
+        --background-hover: #1a682c;
+        --color: white;
+        --color-activated: white;
+        --color-hover: white;
+        border-radius: 8px;
+    }
+    
+    .login-link {
+        color: #28a745;
+        text-decoration: underline;
+        cursor: pointer;
+        margin-top: 10px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    
+    ion-col {
+        background-color: #135d54;
+        border: solid 1px #fff;
+        color: #fff;
+        text-align: center;
+    }
+    
+    .guardar,
+    .examenes {
+        background-color: #28a74600;
+        border: solid 1px #ffffff00;
+        color: #fff;
+        text-align: center;
+    }
+    
+    .verExamenes {
+        width: 50%;
+        margin: 0 auto;
+        margin-bottom: 25px;
+    }
+    
+    ion-icon {
+        margin-right: 20px;
+        /* Ajusta el valor según la separación que desees */
+    }
